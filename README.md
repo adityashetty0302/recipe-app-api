@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe REST API app (Django Rest Framework)
+Recipe App (Django Rest Framework) (REST API)
